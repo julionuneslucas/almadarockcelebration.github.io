@@ -17,11 +17,7 @@ JavaScript - https://www.w3schools.com/js/.
 
 ## About
 
-A presentation site of Condofirst company - condominium management.
-
-Site structured by four pages: index, about (Quem Somos), services (Serviços) and contacts (Contactos).
-
-Files: .html, .scss, css, .jpg and .js.
+A Entertainment Website.
 
 ## Copyright and License
 
