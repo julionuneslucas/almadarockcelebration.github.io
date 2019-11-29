@@ -11,7 +11,7 @@
         "../scss/layout/_masthead.scss",
         "../scss/layout/_where.scss",
         "../scss/layout/_artists.scss",
-        "../scss/layout/_timeline.scss",
+        "../scss/layout/_timetable.scss",
         "../scss/layout/_sponsors.scss",
         "../scss/layout/_contact.scss",
         "../scss/layout/_footer.scss"
