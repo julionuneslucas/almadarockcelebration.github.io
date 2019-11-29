@@ -19,6 +19,22 @@ JavaScript - https://www.w3schools.com/js/.
 
 A Entertainment Website.
 
+Single page design structure, simplicity and conciseness. Organized to ensure content and navigation stay on the same page. 
+Website users will attest to a flawless and efficient user experience.
+
+Structure with eight modules/layouts:
+
+- Masthead;
+- Where;
+- Artists;
+- Timetable;
+- Sponsors;
+- Contact;
+- Footer;
+- Modals.
+
+site is published at https://julionuneslucas.github.io/condofirst.github.pt/
+
 ## Copyright and License
 
 The MIT License (MIT)
