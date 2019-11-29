@@ -33,7 +33,7 @@ Structure with eight modules/layouts:
 - Footer;
 - Modals.
 
-site is published at https://julionuneslucas.github.io/condofirst.github.pt/
+site is published at https://julionuneslucas.github.io/almadarockcelebration.github.io/
 
 ## Copyright and License
 
