@@ -1,8 +1,9 @@
-// navbar
+
+// Navigation Bars
 
 #mainNav {
   background-color: $gray-900;
-  .navbar-toggler {
+  .navbar-toggler {  // Menu button
     font-size: 12px;
     right: 0;
     padding: 13px;
@@ -12,7 +13,7 @@
     background-color: $primary;
     @include heading-font;
   }
-  .navbar-brand {
+  .navbar-brand { // Almada Rock Celebration
     color: $primary;
     @include script-font;
     &.active,
@@ -57,7 +58,7 @@
     .navbar-nav {
       .nav-item {
         .nav-link {
-          padding: 1.1em 1em !important;
+          padding: 1.1em 1em;
         }
       }
     }

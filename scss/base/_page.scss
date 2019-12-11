@@ -1,7 +1,7 @@
 // Global
 
 body {
-  overflow-x: hidden;
+  overflow-x: hidden; // no scrolling mechanism is provided
   @include body-font;
 }
 
@@ -17,7 +17,7 @@ a {
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $primary;
 }
 
 h1,
@@ -52,11 +52,7 @@ h6 {
   }
 }
 
-// Highlight color customization
-::-moz-selection {
-  background: $primary;
-  text-shadow: none;
-}
+// Highlight Content
 
 ::selection {
   background: $primary;
@@ -67,6 +63,4 @@ img::selection {
   background: transparent;
 }
 
-img::-moz-selection {
-  background: transparent;
-}
+

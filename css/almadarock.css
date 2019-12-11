@@ -16,7 +16,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #fed136;
 }
 
 h1,
@@ -72,10 +72,6 @@ img::selection {
   background: transparent;
 }
 
-img::-moz-selection {
-  background: transparent;
-}
-
 .btn {
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
@@ -92,14 +88,14 @@ img::-moz-selection {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #fec810;
+  border-color: #fec810;
   color: white;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
-          box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5);
 }
 
 #mainNav {
@@ -154,7 +150,7 @@ img::-moz-selection {
     transition: all 0.3s;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    padding: 1.1em 1em !important;
+    padding: 1.1em 1em;
   }
   #mainNav.navbar-shrink {
     padding-top: 0;
