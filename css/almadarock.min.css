@@ -98,6 +98,10 @@ img::selection {
           box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5);
 }
 
+.btn.btn-primary.closebtn {
+  font-size: 24px;
+}
+
 #mainNav {
   background-color: #212529;
 }
@@ -334,43 +338,6 @@ header.masthead .intro-text .intro-heading {
 
 .artists-modal .modal-content button {
   cursor: pointer;
-}
-
-.artists-modal .close-modal {
-  position: absolute;
-  top: 25px;
-  right: 25px;
-  width: 75px;
-  height: 75px;
-  cursor: pointer;
-  background-color: transparent;
-}
-
-.artists-modal .close-modal:hover {
-  opacity: 0.3;
-}
-
-.artists-modal .close-modal .lr {
-  /* Safari and Chrome */
-  z-index: 1051;
-  width: 1px;
-  height: 75px;
-  margin-left: 35px;
-  /* IE 9 */
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
-  background-color: #212529;
-}
-
-.artists-modal .close-modal .lr .rl {
-  /* Safari and Chrome */
-  z-index: 1052;
-  width: 1px;
-  height: 75px;
-  /* IE 9 */
-  -webkit-transform: rotate(90deg);
-  transform: rotate(90deg);
-  background-color: #212529;
 }
 
 .timeline {
