@@ -7,6 +7,7 @@ Tools:
 * SASS
 * Bootstrap 4 
 * JavaScript
+* Font-awesome
 
 ## About
 
@@ -54,3 +55,17 @@ jqBootstrapValidation
  Start Bootstrap - Agency v5.2.2 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ 
+ jQuery JavaScript Library v3.4.1
+ * https://jquery.com/ 
+ * Includes Sizzle.js
+ * https://sizzlejs.com/
+ * Copyright JS Foundation and other contributors
+ * Released under the MIT license
+ * https://jquery.org/license
+ 
+ jQuery Easing v1.4.1 - http://gsgd.co.uk/sandbox/jquery/easing/
+ * Open source under the BSD License.
+ * Copyright © 2008 George McGinley Smith
+ * All rights reserved.
+ * https://raw.github.com/gdsmith/jquery-easing/master/LICENSE
