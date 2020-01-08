@@ -2,18 +2,11 @@
 
 Tools: 
 
-HTML5 - https://www.w3schools.com/html/html5_intro.asp;
-
-CSS3 - https://www.w3schools.com/css/;
-
-Sass - https://www.w3schools.com/sass/;
-
-Bootstrap 4 - https://getbootstrap.com/
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-JavaScript - https://www.w3schools.com/js/.
+* HTML5
+* CSS3
+* SASS
+* Bootstrap 4 
+* JavaScript
 
 ## About
 
@@ -52,3 +45,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTH
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+jqBootstrapValidation
+ * A plugin for automating validation on Twitter Bootstrap formatted forms. 
+ * v1.3.6 
+ * License: MIT <http://opensource.org/licenses/mit-license.php> - see LICENSE file
+ * http://ReactiveRaven.github.com/jqBootstrapValidation/
+ 
+ Start Bootstrap - Agency v5.2.2 (https://startbootstrap.com/template-overviews/agency)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
