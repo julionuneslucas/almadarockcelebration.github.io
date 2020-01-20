@@ -2,6 +2,9 @@
 
 A Entertainment Website.
 
+## Prerequisites
+Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
+
 ## About
 
 Single page design structure, simple and concise. Organized to ensure content and navigation stay on the same page. 
