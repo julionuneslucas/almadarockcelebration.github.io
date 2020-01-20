@@ -34,6 +34,11 @@ Tools:
 * JavaScript
 * Font-awesome
 
+## Author
+
+- **Júlio Lucas** - code and design.
+
+
 ## Copyright and License
 
 The MIT License (MIT)
