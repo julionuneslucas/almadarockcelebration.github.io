@@ -1,6 +1,6 @@
 # Almada Rock Celebration
 
-A Entertainment Website.
+A entertainment website.
 
 ## Prerequisites
 Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
