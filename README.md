@@ -23,9 +23,7 @@ Structure with eight modules/layouts:
 
 site is published at https://julionuneslucas.github.io/almadarockcelebration.github.io/
 
-### Basic Usage
-
-Tools: 
+## Built With 
 
 * HTML5
 * CSS3
