@@ -1,13 +1,6 @@
-### Basic Usage
+# Project Title
 
-Tools: 
-
-* HTML5
-* CSS3
-* SASS
-* Bootstrap 4 
-* JavaScript
-* Font-awesome
+Almada Rock Celebration
 
 ## About
 
@@ -28,6 +21,17 @@ Structure with eight modules/layouts:
 - Modals.
 
 site is published at https://julionuneslucas.github.io/almadarockcelebration.github.io/
+
+### Basic Usage
+
+Tools: 
+
+* HTML5
+* CSS3
+* SASS
+* Bootstrap 4 
+* JavaScript
+* Font-awesome
 
 ## Copyright and License
 
