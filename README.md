@@ -9,12 +9,12 @@ Website users will attest to a flawless and efficient user experience.
 
 Structure with eight modules/layouts:
 
-- Masthead;
-- Where;
-- Artists;
-- Timetable;
-- Sponsors;
-- Contact;
+- Masthead (Full Screen Photo layout);
+- Where (Headline and Thumbnails Gallery layout);
+- Artists (Headline and Thumbnails Gallery layout);
+- Timetable (Timetable layout);
+- Sponsors (Headline and Thumbnails Gallery layout);
+- Contact (Form layouts);
 - Footer;
 - Modals.
 
