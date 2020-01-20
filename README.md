@@ -1,10 +1,8 @@
-# Project Title
-
-Almada Rock Celebration
-
-## About
+# Almada Rock Celebration
 
 A Entertainment Website.
+
+## About
 
 Single page design structure, simple and concise. Organized to ensure content and navigation stay on the same page. 
 Website users will attest to a flawless and efficient user experience.
