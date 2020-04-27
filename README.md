@@ -1,6 +1,5 @@
 # Almada Rock Celebration
-
-A entertainment website.
+A entertainment website for Cine Incrível a multicultural space whose main activity is to show some musical genres. Goals are generate leads and re-engage existing customers, generate more sales and promote shows.
 
 ## Prerequisites
 Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
